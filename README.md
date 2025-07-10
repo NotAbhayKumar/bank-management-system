@@ -18,9 +18,10 @@ A Python-based banking management system with a Tkinter GUI.
 
 ## Getting Started
 
-1. Clone the repository or download the project files.
-2. Make sure you have Python 3.x installed on your system.
-3. Run the `mainProject.py` file to start the application.
+1.  Github Repository Link : https://github.com/NotAbhayKumar/bank-management-system.git
+2.  Clone the repository or download the project files.
+3. Make sure you have Python 3.x installed on your system.
+4. Run the `mainProject.py` file to start the application.
 
 ## Usage
 
